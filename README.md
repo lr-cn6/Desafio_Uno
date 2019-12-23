@@ -1,8 +1,4 @@
-# Datos
- - Luis Riveros
- - lc.riverosd@gmail.com
- - Contacto: Leonardo Miranda
- 
+
  #Instrucciones de Instalacion / ejecucion
  El proyecto se encuentra en springboot, incluye wrapper por lo que sólo se debe ejecutar:
  
